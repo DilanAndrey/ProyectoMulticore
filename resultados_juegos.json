@@ -1,0 +1,3538 @@
+{
+  "mario-kart-8": {
+    "nombreJuego": "Mario Kart 8",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 2.99
+      },
+      "nintendo": {
+        "precio": "$84.98",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 86,
+    "duracion": "6.02 Hours"
+  },
+  "the-legend-of-zelda": {
+    "nombreJuego": "The Legend of Zelda",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 48.99
+      },
+      "nintendo": {
+        "precio": "$59.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 95,
+    "duracion": "8.06 Hours"
+  },
+  "minecraft": {
+    "nombreJuego": "Minecraft",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": "$39.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 93,
+    "duracion": "64.07 Hours"
+  },
+  "stardew-valley": {
+    "nombreJuego": "Stardew Valley",
+    "precios": {
+      "steam": {
+        "precio": "$14.99"
+      },
+      "playstation": {
+        "precio": 14.99
+      },
+      "nintendo": {
+        "precio": "$13.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 89,
+    "duracion": "53.39 Hours"
+  },
+  "hollow-knight": {
+    "nombreJuego": "Hollow Knight",
+    "precios": {
+      "steam": {
+        "precio": "$14.99"
+      },
+      "playstation": {
+        "precio": 14.99
+      },
+      "nintendo": {
+        "precio": "$14.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 91,
+    "duracion": "26.82 Hours"
+  },
+  "the-legend-of-zelda-breath-of-the-wild": {
+    "nombreJuego": "The Legend of Zelda: Breath of the Wild",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": null
+      },
+      "nintendo": {
+        "precio": "$89.98",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 95,
+    "duracion": "50.36 Hours"
+  },
+  "super-mario-odyssey": {
+    "nombreJuego": "Super Mario Odyssey",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 2.99
+      },
+      "nintendo": {
+        "precio": "$59.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 97,
+    "duracion": "12.49 Hours"
+  },
+  "red-dead-redemption-2": {
+    "nombreJuego": "Red Dead Redemption 2",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 97,
+    "duracion": "50.64 Hours"
+  },
+  "the-witcher-3-wild-hunt": {
+    "nombreJuego": "The Witcher 3: Wild Hunt",
+    "precios": {
+      "steam": {
+        "precio": "$39.99"
+      },
+      "playstation": {
+        "precio": 7.99
+      },
+      "nintendo": {
+        "precio": "$39.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 92,
+    "duracion": "51.59 Hours"
+  },
+  "god-of-war": {
+    "nombreJuego": "God of War",
+    "precios": {
+      "steam": {
+        "precio": "$49.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 94,
+    "duracion": "20.56 Hours"
+  },
+  "halo-infinite": {
+    "nombreJuego": "Halo Infinite",
+    "precios": {
+      "steam": {
+        "precio": "Free"
+      },
+      "playstation": {
+        "precio": 14.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 87,
+    "duracion": "11.32 Hours"
+  },
+  "fortnite": {
+    "nombreJuego": "Fortnite",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 0.0
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 78,
+    "duracion": "61.85 Hours"
+  },
+  "apex-legends": {
+    "nombreJuego": "Apex Legends",
+    "precios": {
+      "steam": {
+        "precio": "Free"
+      },
+      "playstation": {
+        "precio": 0.0
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 89,
+    "duracion": "33.3 Hours"
+  },
+  "overwatch": {
+    "nombreJuego": "Overwatch",
+    "precios": {
+      "steam": {
+        "precio": "Free"
+      },
+      "playstation": {
+        "precio": 9.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 91,
+    "duracion": "94.58 Hours"
+  },
+  "league-of-legends": {
+    "nombreJuego": "League of Legends",
+    "precios": {
+      "steam": {
+        "precio": "$29.99"
+      },
+      "playstation": {
+        "precio": 29.99
+      },
+      "nintendo": {
+        "precio": "$29.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 89,
+    "duracion": "1122.78 Hours"
+  },
+  "dota-2": {
+    "nombreJuego": "Dota 2",
+    "precios": {
+      "steam": {
+        "precio": "Free"
+      },
+      "playstation": {
+        "precio": null
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 90,
+    "duracion": "772.09 Hours"
+  },
+  "counter-strike-2": {
+    "nombreJuego": "Counter-Strike 2",
+    "precios": {
+      "steam": {
+        "precio": "Free"
+      },
+      "playstation": {
+        "precio": null
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 82,
+    "duracion": "128.26 Hours"
+  },
+  "valorant": {
+    "nombreJuego": "Valorant",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 0.0
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 80,
+    "duracion": "106.42 Hours"
+  },
+  "call-of-duty-modern-warfare-ii": {
+    "nombreJuego": "Call of Duty: Modern Warfare II",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 69.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 75,
+    "duracion": "8.1 Hours"
+  },
+  "elden-ring": {
+    "nombreJuego": "Elden Ring",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 94,
+    "duracion": "59.9 Hours"
+  },
+  "dark-souls-iii": {
+    "nombreJuego": "Dark Souls III",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 89,
+    "duracion": "31.34 Hours"
+  },
+  "bloodborne": {
+    "nombreJuego": "Bloodborne",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 92,
+    "duracion": "32.55 Hours"
+  },
+  "sekiro-shadows-die-twice": {
+    "nombreJuego": "Sekiro: Shadows Die Twice",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 90,
+    "duracion": "30.14 Hours"
+  },
+  "animal-crossing-new-horizons": {
+    "nombreJuego": "Animal Crossing: New Horizons",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 15.99
+      },
+      "nintendo": {
+        "precio": "$84.98",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 90,
+    "duracion": "61.13 Hours"
+  },
+  "metroid-prime-remastered": {
+    "nombreJuego": "Metroid Prime Remastered",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": "$39.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 94,
+    "duracion": "13.77 Hours"
+  },
+  "super-smash-bros-ultimate": {
+    "nombreJuego": "Super Smash Bros. Ultimate",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": "$69.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 93,
+    "duracion": "24.08 Hours"
+  },
+  "hades": {
+    "nombreJuego": "Hades",
+    "precios": {
+      "steam": {
+        "precio": "$23.99"
+      },
+      "playstation": {
+        "precio": 24.99
+      },
+      "nintendo": {
+        "precio": "$24.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 95,
+    "duracion": "23.27 Hours"
+  },
+  "celeste": {
+    "nombreJuego": "Celeste",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": "$19.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 92,
+    "duracion": "8.3 Hours"
+  },
+  "cuphead": {
+    "nombreJuego": "Cuphead",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 13.99
+      },
+      "nintendo": {
+        "precio": "$19.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 89,
+    "duracion": "10.45 Hours"
+  },
+  "genshin-impact": {
+    "nombreJuego": "Genshin Impact",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 4.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 81,
+    "duracion": "68.07 Hours"
+  },
+  "assassins-creed-valhalla": {
+    "nombreJuego": "Assassin’s Creed Valhalla",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 80,
+    "duracion": null
+  },
+  "cyberpunk-2077": {
+    "nombreJuego": "Cyberpunk 2077",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 22.49
+      },
+      "nintendo": {
+        "precio": "$69.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 85,
+    "duracion": "25.91 Hours"
+  },
+  "mass-effect-legendary-edition": {
+    "nombreJuego": "Mass Effect Legendary Edition",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 87,
+    "duracion": "60.65 Hours"
+  },
+  "starfield": {
+    "nombreJuego": "Starfield",
+    "precios": {
+      "steam": {
+        "precio": "$69.99"
+      },
+      "playstation": {
+        "precio": null
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 83,
+    "duracion": "23.58 Hours"
+  },
+  "baldurs-gate-3": {
+    "nombreJuego": "Baldur’s Gate 3",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 69.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 96,
+    "duracion": null
+  },
+  "dragon-age-inquisition": {
+    "nombreJuego": "Dragon Age: Inquisition",
+    "precios": {
+      "steam": {
+        "precio": "$39.99"
+      },
+      "playstation": {
+        "precio": 39.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 85,
+    "duracion": "46.56 Hours"
+  },
+  "final-fantasy-vii-remake": {
+    "nombreJuego": "Final Fantasy VII Remake",
+    "precios": {
+      "steam": {
+        "precio": "$39.99"
+      },
+      "playstation": {
+        "precio": 29.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 89,
+    "duracion": "32.45 Hours"
+  },
+  "persona-5-royal": {
+    "nombreJuego": "Persona 5 Royal",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": "$59.99",
+        "en_oferta": true
+      }
+    },
+    "metacritic": 95,
+    "duracion": "101.24 Hours"
+  },
+  "nier-automata": {
+    "nombreJuego": "Nier: Automata",
+    "precios": {
+      "steam": {
+        "precio": "$39.99"
+      },
+      "playstation": {
+        "precio": 15.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 89,
+    "duracion": "21.26 Hours"
+  },
+  "monster-hunter-world": {
+    "nombreJuego": "Monster Hunter: World",
+    "precios": {
+      "steam": {
+        "precio": "$29.99"
+      },
+      "playstation": {
+        "precio": 9.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 89,
+    "duracion": "46.45 Hours"
+  },
+  "resident-evil-4-remake": {
+    "nombreJuego": "Resident Evil 4 (Remake)",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 89.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 91,
+    "duracion": null
+  },
+  "silent-hill-2": {
+    "nombreJuego": "Silent Hill 2",
+    "precios": {
+      "steam": {
+        "precio": "$69.99"
+      },
+      "playstation": {
+        "precio": 69.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 86,
+    "duracion": "15.93 Hours"
+  },
+  "dead-space-remake": {
+    "nombreJuego": "Dead Space Remake",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 9.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 68,
+    "duracion": null
+  },
+  "forza-horizon-5": {
+    "nombreJuego": "Forza Horizon 5",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 92,
+    "duracion": "20.99 Hours"
+  },
+  "gran-turismo-7": {
+    "nombreJuego": "Gran Turismo 7",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 69.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 87,
+    "duracion": "25.46 Hours"
+  },
+  "fifa-24": {
+    "nombreJuego": "FIFA 24",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 9.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 80,
+    "duracion": null
+  },
+  "madden-nfl-24": {
+    "nombreJuego": "Madden NFL 24",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 14.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 65,
+    "duracion": "34.75 Hours"
+  },
+  "rocket-league": {
+    "nombreJuego": "Rocket League",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 0.0
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 86,
+    "duracion": "4.6 Hours"
+  },
+  "terraria": {
+    "nombreJuego": "Terraria",
+    "precios": {
+      "steam": {
+        "precio": "$9.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": "$29.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 81,
+    "duracion": "51.98 Hours"
+  },
+  "among-us": {
+    "nombreJuego": "Among Us",
+    "precios": {
+      "steam": {
+        "precio": "$4.99"
+      },
+      "playstation": {
+        "precio": 4.99
+      },
+      "nintendo": {
+        "precio": "$4.29",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 82,
+    "duracion": "8.22 Hours"
+  },
+  "fall-guy": {
+    "nombreJuego": "Fall Guy",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 0.0
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 81,
+    "duracion": "10.26 Hours"
+  },
+  "fallout-3": {
+    "nombreJuego": "Fallout 3",
+    "precios": {
+      "steam": {
+        "precio": "$9.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 93,
+    "duracion": "22.2 Hours"
+  },
+  "fallout-new-vegas": {
+    "nombreJuego": "Fallout: New Vegas",
+    "precios": {
+      "steam": {
+        "precio": "$9.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 84,
+    "duracion": "26.84 Hours"
+  },
+  "fallout-4": {
+    "nombreJuego": "Fallout 4",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 87,
+    "duracion": "27.74 Hours"
+  },
+  "hades-ii": {
+    "nombreJuego": "Hades II",
+    "precios": {
+      "steam": {
+        "precio": "$23.99"
+      },
+      "playstation": {
+        "precio": 24.99
+      },
+      "nintendo": {
+        "precio": "$29.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 95,
+    "duracion": "27.14 Hours"
+  },
+  "hollow-knight-silksong": {
+    "nombreJuego": "Hollow Knight: Silksong",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": "$19.50",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 91,
+    "duracion": "27.48 Hours"
+  },
+  "shovel-knight": {
+    "nombreJuego": "Shovel Knight",
+    "precios": {
+      "steam": {
+        "precio": "$39.99"
+      },
+      "playstation": {
+        "precio": 39.99
+      },
+      "nintendo": {
+        "precio": "$14.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 91,
+    "duracion": "6.67 Hours"
+  },
+  "god-of-war-ragnarök": {
+    "nombreJuego": "God of War Ragnarök",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 69.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 94,
+    "duracion": "26.51 Hours"
+  },
+  "dead-cells": {
+    "nombreJuego": "Dead Cells",
+    "precios": {
+      "steam": {
+        "precio": "$24.99"
+      },
+      "playstation": {
+        "precio": 24.99
+      },
+      "nintendo": {
+        "precio": "$31.49",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 92,
+    "duracion": "14.04 Hours"
+  },
+  "horizon-zero-dawn": {
+    "nombreJuego": "Horizon Zero Dawn",
+    "precios": {
+      "steam": {
+        "precio": "$49.99"
+      },
+      "playstation": {
+        "precio": 39.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 85,
+    "duracion": "22.5 Hours"
+  },
+  "inside": {
+    "nombreJuego": "Inside",
+    "precios": {
+      "steam": {
+        "precio": "$6.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": "$19.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 94,
+    "duracion": "3.56 Hours"
+  },
+  "horizon-forbidden-west": {
+    "nombreJuego": "Horizon Forbidden West",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 49.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 89,
+    "duracion": "28.85 Hours"
+  },
+  "limbo": {
+    "nombreJuego": "Limbo",
+    "precios": {
+      "steam": {
+        "precio": "$9.99"
+      },
+      "playstation": {
+        "precio": 9.99
+      },
+      "nintendo": {
+        "precio": "$9.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 78,
+    "duracion": "3.58 Hours"
+  },
+  "dark-souls": {
+    "nombreJuego": "Dark Souls",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 39.99
+      },
+      "nintendo": {
+        "precio": "$39.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 91,
+    "duracion": "41.67 Hours"
+  },
+  "dark-souls-ii": {
+    "nombreJuego": "Dark Souls II",
+    "precios": {
+      "steam": {
+        "precio": "$39.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 91,
+    "duracion": "43.05 Hours"
+  },
+  "pubg": {
+    "nombreJuego": "PUBG",
+    "precios": {
+      "steam": {
+        "precio": "Free"
+      },
+      "playstation": {
+        "precio": 11.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 82,
+    "duracion": null
+  },
+  "counter-strike-16": {
+    "nombreJuego": "Counter-Strike 1.6",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 5.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 82,
+    "duracion": "25.68 Hours"
+  },
+  "counter-strike-source": {
+    "nombreJuego": "Counter-Strike: Source",
+    "precios": {
+      "steam": {
+        "precio": "$9.99"
+      },
+      "playstation": {
+        "precio": 2.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 88,
+    "duracion": "65.88 Hours"
+  },
+  "ghost-of-tsushima": {
+    "nombreJuego": "Ghost of Tsushima",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 69.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 87,
+    "duracion": "25.07 Hours"
+  },
+  "counter-strike-global-offensive": {
+    "nombreJuego": "Counter-Strike: Global Offensive",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 0.0
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 83,
+    "duracion": "128.26 Hours"
+  },
+  "grand-theft-auto-v": {
+    "nombreJuego": "Grand Theft Auto V",
+    "precios": {
+      "steam": {
+        "precio": "$29.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 97,
+    "duracion": "32.06 Hours"
+  },
+  "portal": {
+    "nombreJuego": "Portal",
+    "precios": {
+      "steam": {
+        "precio": "$9.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": "$19.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 95,
+    "duracion": "3.12 Hours"
+  },
+  "grand-theft-auto-iv": {
+    "nombreJuego": "Grand Theft Auto IV",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 98,
+    "duracion": "27.13 Hours"
+  },
+  "portal-2": {
+    "nombreJuego": "Portal 2",
+    "precios": {
+      "steam": {
+        "precio": "$9.99"
+      },
+      "playstation": {
+        "precio": 2.49
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 95,
+    "duracion": "8.56 Hours"
+  },
+  "grand-theft-auto-san-andreas": {
+    "nombreJuego": "Grand Theft Auto: San Andreas",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 95,
+    "duracion": "30.25 Hours"
+  },
+  "half-life": {
+    "nombreJuego": "Half-Life",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": null
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 93,
+    "duracion": "11.98 Hours"
+  },
+  "grand-theft-auto-vice-city": {
+    "nombreJuego": "Grand Theft Auto: Vice City",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 95,
+    "duracion": "17.23 Hours"
+  },
+  "half-life-2": {
+    "nombreJuego": "Half-Life 2",
+    "precios": {
+      "steam": {
+        "precio": "$9.99"
+      },
+      "playstation": {
+        "precio": null
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 96,
+    "duracion": "12.88 Hours"
+  },
+  "grand-theft-auto-iii": {
+    "nombreJuego": "Grand Theft Auto III",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 97,
+    "duracion": "14.18 Hours"
+  },
+  "half-life-alyx": {
+    "nombreJuego": "Half-Life Alyx",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": null
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 93,
+    "duracion": "12.19 Hours"
+  },
+  "forza-horizon-4": {
+    "nombreJuego": "Forza Horizon 4",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 2.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 92,
+    "duracion": "15.03 Hours"
+  },
+  "titanfall": {
+    "nombreJuego": "Titanfall",
+    "precios": {
+      "steam": {
+        "precio": "$29.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 89,
+    "duracion": "6.56 Hours"
+  },
+  "titanfall-2": {
+    "nombreJuego": "Titanfall 2",
+    "precios": {
+      "steam": {
+        "precio": "$29.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 89,
+    "duracion": "6.11 Hours"
+  },
+  "need-for-speed-heat": {
+    "nombreJuego": "Need for Speed: Heat",
+    "precios": {
+      "steam": {
+        "precio": "$69.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 72,
+    "duracion": null
+  },
+  "need-for-speed-most-wanted": {
+    "nombreJuego": "Need for Speed: Most Wanted",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 5.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 84,
+    "duracion": "10.15 Hours"
+  },
+  "monster-hunter-rise": {
+    "nombreJuego": "Monster Hunter Rise",
+    "precios": {
+      "steam": {
+        "precio": "$39.99"
+      },
+      "playstation": {
+        "precio": 14.99
+      },
+      "nintendo": {
+        "precio": "$69.99",
+        "en_oferta": true
+      }
+    },
+    "metacritic": 86,
+    "duracion": "23.09 Hours"
+  },
+  "fifa-23": {
+    "nombreJuego": "FIFA 23",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 8.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 76,
+    "duracion": "90.97 Hours"
+  },
+  "journey": {
+    "nombreJuego": "Journey",
+    "precios": {
+      "steam": {
+        "precio": "$4.99"
+      },
+      "playstation": {
+        "precio": 14.99
+      },
+      "nintendo": {
+        "precio": "$4.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 92,
+    "duracion": "2.0 Hours"
+  },
+  "fifa-22": {
+    "nombreJuego": "FIFA 22",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 6.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 78,
+    "duracion": "61.9 Hours"
+  },
+  "flower": {
+    "nombreJuego": "Flower",
+    "precios": {
+      "steam": {
+        "precio": "$24.99"
+      },
+      "playstation": {
+        "precio": 6.99
+      },
+      "nintendo": {
+        "precio": "$11.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 87,
+    "duracion": "2.0 Hours"
+  },
+  "nba-2k23": {
+    "nombreJuego": "NBA 2K23",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 78,
+    "duracion": "22.11 Hours"
+  },
+  "the-sims-4": {
+    "nombreJuego": "The Sims 4",
+    "precios": {
+      "steam": {
+        "precio": "Free"
+      },
+      "playstation": {
+        "precio": 4.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 86,
+    "duracion": "22.16 Hours"
+  },
+  "madden-nfl-23": {
+    "nombreJuego": "Madden NFL 23",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 1.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 69,
+    "duracion": "22.68 Hours"
+  },
+  "call-of-duty-modern-warfare": {
+    "nombreJuego": "Call of Duty: Modern Warfare",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 94,
+    "duracion": "6.16 Hours"
+  },
+  "the-sims-3": {
+    "nombreJuego": "The Sims 3",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 49.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": null,
+    "duracion": "52.56 Hours"
+  },
+  "simcity-4": {
+    "nombreJuego": "SimCity 4",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 39.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 84,
+    "duracion": "9.45 Hours"
+  },
+  "call-of-duty-black-ops": {
+    "nombreJuego": "Call of Duty: Black Ops",
+    "precios": {
+      "steam": {
+        "precio": "$69.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 82,
+    "duracion": "7.13 Hours"
+  },
+  "cities-skylines": {
+    "nombreJuego": "Cities: Skylines",
+    "precios": {
+      "steam": {
+        "precio": "$29.99"
+      },
+      "playstation": {
+        "precio": 5.99
+      },
+      "nintendo": {
+        "precio": "$39.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 74,
+    "duracion": "27.56 Hours"
+  },
+  "call-of-duty-black-ops-ii": {
+    "nombreJuego": "Call of Duty: Black Ops II",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 83,
+    "duracion": "7.06 Hours"
+  },
+  "call-of-duty-black-ops-iii": {
+    "nombreJuego": "Call of Duty: Black Ops III",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 7.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 81,
+    "duracion": "9.03 Hours"
+  },
+  "no-mans-sky": {
+    "nombreJuego": "No Man’s Sky",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 83,
+    "duracion": null
+  },
+  "call-of-duty-warzone": {
+    "nombreJuego": "Call of Duty: Warzone",
+    "precios": {
+      "steam": {
+        "precio": "Free"
+      },
+      "playstation": {
+        "precio": 1.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 76,
+    "duracion": "49.07 Hours"
+  },
+  "subnautica": {
+    "nombreJuego": "Subnautica",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 29.99
+      },
+      "nintendo": {
+        "precio": "$29.99",
+        "en_oferta": true
+      }
+    },
+    "metacritic": 87,
+    "duracion": "29.96 Hours"
+  },
+  "subnautica-below-zero": {
+    "nombreJuego": "Subnautica: Below Zero",
+    "precios": {
+      "steam": {
+        "precio": "$29.99"
+      },
+      "playstation": {
+        "precio": 29.99
+      },
+      "nintendo": {
+        "precio": "$29.99",
+        "en_oferta": true
+      }
+    },
+    "metacritic": 82,
+    "duracion": "20.3 Hours"
+  },
+  "battlefield-1": {
+    "nombreJuego": "Battlefield 1",
+    "precios": {
+      "steam": {
+        "precio": "$39.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 88,
+    "duracion": "6.68 Hours"
+  },
+  "battlefield-3": {
+    "nombreJuego": "Battlefield 3",
+    "precios": {
+      "steam": {
+        "precio": "$39.99"
+      },
+      "playstation": {
+        "precio": 14.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 89,
+    "duracion": "6.11 Hours"
+  },
+  "ark-survival-evolved": {
+    "nombreJuego": "ARK: Survival Evolved",
+    "precios": {
+      "steam": {
+        "precio": "$14.99"
+      },
+      "playstation": {
+        "precio": 14.99
+      },
+      "nintendo": {
+        "precio": "$49.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 70,
+    "duracion": "68.19 Hours"
+  },
+  "battlefield-4": {
+    "nombreJuego": "Battlefield 4",
+    "precios": {
+      "steam": {
+        "precio": "$39.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 81,
+    "duracion": "6.24 Hours"
+  },
+  "rust": {
+    "nombreJuego": "Rust",
+    "precios": {
+      "steam": {
+        "precio": "$39.99"
+      },
+      "playstation": {
+        "precio": 49.99
+      },
+      "nintendo": {
+        "precio": "$19.50",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 81,
+    "duracion": "29.96 Hours"
+  },
+  "dayz": {
+    "nombreJuego": "DayZ",
+    "precios": {
+      "steam": {
+        "precio": "$49.99"
+      },
+      "playstation": {
+        "precio": 54.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 31,
+    "duracion": "50.77 Hours"
+  },
+  "battlefield-v": {
+    "nombreJuego": "Battlefield V",
+    "precios": {
+      "steam": {
+        "precio": "$49.99"
+      },
+      "playstation": {
+        "precio": 39.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 81,
+    "duracion": "6.24 Hours"
+  },
+  "a-plague-tale-innocence": {
+    "nombreJuego": "A Plague Tale: Innocence",
+    "precios": {
+      "steam": {
+        "precio": "$39.99"
+      },
+      "playstation": {
+        "precio": 39.99
+      },
+      "nintendo": {
+        "precio": "$39.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 81,
+    "duracion": "10.93 Hours"
+  },
+  "the-forest": {
+    "nombreJuego": "The Forest",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": "$9.99",
+        "en_oferta": true
+      }
+    },
+    "metacritic": 83,
+    "duracion": "15.86 Hours"
+  },
+  "a-plague-tale-requiem": {
+    "nombreJuego": "A Plague Tale: Requiem",
+    "precios": {
+      "steam": {
+        "precio": "$49.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": "$59.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 82,
+    "duracion": "17.04 Hours"
+  },
+  "sons-of-the-forest": {
+    "nombreJuego": "Sons of the Forest",
+    "precios": {
+      "steam": {
+        "precio": "$29.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 86,
+    "duracion": "15.85 Hours"
+  },
+  "assassins-creed-odyssey": {
+    "nombreJuego": "Assassin’s Creed Odyssey",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 83,
+    "duracion": null
+  },
+  "dont-starve": {
+    "nombreJuego": "Don’t Starve",
+    "precios": {
+      "steam": {
+        "precio": "$14.99"
+      },
+      "playstation": {
+        "precio": 3.74
+      },
+      "nintendo": {
+        "precio": "$19.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 82,
+    "duracion": null
+  },
+  "assassins-creed-origins": {
+    "nombreJuego": "Assassin’s Creed Origins",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 83,
+    "duracion": null
+  },
+  "dont-starve-together": {
+    "nombreJuego": "Don’t Starve Together",
+    "precios": {
+      "steam": {
+        "precio": "$14.99"
+      },
+      "playstation": {
+        "precio": 14.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 83,
+    "duracion": null
+  },
+  "dying-light": {
+    "nombreJuego": "Dying Light",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 24.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 79,
+    "duracion": "18.08 Hours"
+  },
+  "dying-light-2": {
+    "nombreJuego": "Dying Light 2",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 69.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 76,
+    "duracion": "24.37 Hours"
+  },
+  "left-4-dead": {
+    "nombreJuego": "Left 4 Dead",
+    "precios": {
+      "steam": {
+        "precio": "$9.99"
+      },
+      "playstation": {
+        "precio": 0.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 89,
+    "duracion": "6.98 Hours"
+  },
+  "assassins-creed-black-flag": {
+    "nombreJuego": "Assassin’s Creed Black Flag",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 29.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 88,
+    "duracion": null
+  },
+  "left-4-dead-2": {
+    "nombreJuego": "Left 4 Dead 2",
+    "precios": {
+      "steam": {
+        "precio": "$9.99"
+      },
+      "playstation": {
+        "precio": 0.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 89,
+    "duracion": "10.19 Hours"
+  },
+  "assassins-creed-ii": {
+    "nombreJuego": "Assassin’s Creed II",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 24.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 90,
+    "duracion": null
+  },
+  "dead-island": {
+    "nombreJuego": "Dead Island",
+    "precios": {
+      "steam": {
+        "precio": "$49.99"
+      },
+      "playstation": {
+        "precio": 49.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 73,
+    "duracion": "18.35 Hours"
+  },
+  "far-cry-3": {
+    "nombreJuego": "Far Cry 3",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 29.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 88,
+    "duracion": "15.91 Hours"
+  },
+  "dead-island-2": {
+    "nombreJuego": "Dead Island 2",
+    "precios": {
+      "steam": {
+        "precio": "$49.99"
+      },
+      "playstation": {
+        "precio": 49.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 73,
+    "duracion": "16.08 Hours"
+  },
+  "far-cry-4": {
+    "nombreJuego": "Far Cry 4",
+    "precios": {
+      "steam": {
+        "precio": "$29.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 85,
+    "duracion": "17.84 Hours"
+  },
+  "borderlands": {
+    "nombreJuego": "Borderlands",
+    "precios": {
+      "steam": {
+        "precio": "$69.99"
+      },
+      "playstation": {
+        "precio": 69.99
+      },
+      "nintendo": {
+        "precio": "$49.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 81,
+    "duracion": "22.21 Hours"
+  },
+  "far-cry-5": {
+    "nombreJuego": "Far Cry 5",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 81,
+    "duracion": "18.2 Hours"
+  },
+  "borderlands-2": {
+    "nombreJuego": "Borderlands 2",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 49.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 89,
+    "duracion": "30.09 Hours"
+  },
+  "far-cry-6": {
+    "nombreJuego": "Far Cry 6",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 76,
+    "duracion": "24.54 Hours"
+  },
+  "borderlands-3": {
+    "nombreJuego": "Borderlands 3",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": "$59.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 77,
+    "duracion": "23.41 Hours"
+  },
+  "destiny": {
+    "nombreJuego": "Destiny",
+    "precios": {
+      "steam": {
+        "precio": "Free"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": "$2.69",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 89,
+    "duracion": "12.15 Hours"
+  },
+  "bioshock": {
+    "nombreJuego": "BioShock",
+    "precios": {
+      "steam": {
+        "precio": "$29.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": "$19.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 94,
+    "duracion": "12.11 Hours"
+  },
+  "destiny-2": {
+    "nombreJuego": "Destiny 2",
+    "precios": {
+      "steam": {
+        "precio": "Free"
+      },
+      "playstation": {
+        "precio": 39.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 89,
+    "duracion": "12.24 Hours"
+  },
+  "bioshock-2": {
+    "nombreJuego": "BioShock 2",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": "$19.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 88,
+    "duracion": "10.53 Hours"
+  },
+  "diablo-iii": {
+    "nombreJuego": "Diablo III",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": "$59.99",
+        "en_oferta": true
+      }
+    },
+    "metacritic": 88,
+    "duracion": "18.15 Hours"
+  },
+  "bioshock-infinite": {
+    "nombreJuego": "BioShock Infinite",
+    "precios": {
+      "steam": {
+        "precio": "$4.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": "$19.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 94,
+    "duracion": "11.54 Hours"
+  },
+  "diablo-iv": {
+    "nombreJuego": "Diablo IV",
+    "precios": {
+      "steam": {
+        "precio": "$49.99"
+      },
+      "playstation": {
+        "precio": 39.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 84,
+    "duracion": "25.9 Hours"
+  },
+  "dishonored": {
+    "nombreJuego": "Dishonored",
+    "precios": {
+      "steam": {
+        "precio": "$9.99"
+      },
+      "playstation": {
+        "precio": 29.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 88,
+    "duracion": "12.15 Hours"
+  },
+  "starcraft-ii": {
+    "nombreJuego": "StarCraft II",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": null
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 93,
+    "duracion": "17.8 Hours"
+  },
+  "dishonored-2": {
+    "nombreJuego": "Dishonored 2",
+    "precios": {
+      "steam": {
+        "precio": "$29.99"
+      },
+      "playstation": {
+        "precio": 29.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 88,
+    "duracion": "12.52 Hours"
+  },
+  "starcraft": {
+    "nombreJuego": "StarCraft",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": null
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 93,
+    "duracion": "25.1 Hours"
+  },
+  "prey": {
+    "nombreJuego": "Prey",
+    "precios": {
+      "steam": {
+        "precio": "$29.99"
+      },
+      "playstation": {
+        "precio": 29.99
+      },
+      "nintendo": {
+        "precio": "$9.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 79,
+    "duracion": "16.27 Hours"
+  },
+  "warcraft-iii": {
+    "nombreJuego": "Warcraft III",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 3.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 92,
+    "duracion": "22.0 Hours"
+  },
+  "the-outer-worlds": {
+    "nombreJuego": "The Outer Worlds",
+    "precios": {
+      "steam": {
+        "precio": "$69.99"
+      },
+      "playstation": {
+        "precio": 7.49
+      },
+      "nintendo": {
+        "precio": "$24.99",
+        "en_oferta": true
+      }
+    },
+    "metacritic": 83,
+    "duracion": "13.33 Hours"
+  },
+  "world-of-warcraft": {
+    "nombreJuego": "World of Warcraft",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 85,
+    "duracion": "480.31 Hours"
+  },
+  "returnal": {
+    "nombreJuego": "Returnal",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 69.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 86,
+    "duracion": "19.01 Hours"
+  },
+  "final-fantasy-vii": {
+    "nombreJuego": "Final Fantasy VII",
+    "precios": {
+      "steam": {
+        "precio": "$39.99"
+      },
+      "playstation": {
+        "precio": 15.99
+      },
+      "nintendo": {
+        "precio": "$15.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 92,
+    "duracion": "36.15 Hours"
+  },
+  "nier-replicant": {
+    "nombreJuego": "Nier Replicant",
+    "precios": {
+      "steam": {
+        "precio": "Free"
+      },
+      "playstation": {
+        "precio": 23.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 83,
+    "duracion": "19.83 Hours"
+  },
+  "final-fantasy-xv": {
+    "nombreJuego": "Final Fantasy XV",
+    "precios": {
+      "steam": {
+        "precio": "$34.99"
+      },
+      "playstation": {
+        "precio": 34.99
+      },
+      "nintendo": {
+        "precio": "$29.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 87,
+    "duracion": "27.81 Hours"
+  },
+  "bayonetta": {
+    "nombreJuego": "Bayonetta",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 6.24
+      },
+      "nintendo": {
+        "precio": "$29.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 86,
+    "duracion": "11.56 Hours"
+  },
+  "final-fantasy-xvi": {
+    "nombreJuego": "Final Fantasy XVI",
+    "precios": {
+      "steam": {
+        "precio": "$49.99"
+      },
+      "playstation": {
+        "precio": 49.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 87,
+    "duracion": "38.08 Hours"
+  },
+  "bayonetta-2": {
+    "nombreJuego": "Bayonetta 2",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 6.24
+      },
+      "nintendo": {
+        "precio": "$49.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 91,
+    "duracion": "9.08 Hours"
+  },
+  "bayonetta-3": {
+    "nombreJuego": "Bayonetta 3",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 39.99
+      },
+      "nintendo": {
+        "precio": "$59.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 86,
+    "duracion": "13.05 Hours"
+  },
+  "resident-evil-2-remake": {
+    "nombreJuego": "Resident Evil 2 (Remake)",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 89.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 91,
+    "duracion": null
+  },
+  "mario-kart-8-deluxe": {
+    "nombreJuego": "Mario Kart 8 Deluxe",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 2.99
+      },
+      "nintendo": {
+        "precio": "$84.98",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 86,
+    "duracion": "6.2 Hours"
+  },
+  "resident-evil-village": {
+    "nombreJuego": "Resident Evil Village",
+    "precios": {
+      "steam": {
+        "precio": "$39.99"
+      },
+      "playstation": {
+        "precio": 0.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 82,
+    "duracion": "9.88 Hours"
+  },
+  "splatoon-2": {
+    "nombreJuego": "Splatoon 2",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": null
+      },
+      "nintendo": {
+        "precio": "$79.98",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 83,
+    "duracion": "7.89 Hours"
+  },
+  "resident-evil-5": {
+    "nombreJuego": "Resident Evil 5",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": "$19.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 83,
+    "duracion": "12.1 Hours"
+  },
+  "splatoon-3": {
+    "nombreJuego": "Splatoon 3",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 3.99
+      },
+      "nintendo": {
+        "precio": "$84.98",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 78,
+    "duracion": "8.38 Hours"
+  },
+  "resident-evil-6": {
+    "nombreJuego": "Resident Evil 6",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": "$19.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 67,
+    "duracion": null
+  },
+  "fire-emblem-three-houses": {
+    "nombreJuego": "Fire Emblem: Three Houses",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 12.99
+      },
+      "nintendo": {
+        "precio": "$59.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 89,
+    "duracion": null
+  },
+  "silent-hill-3": {
+    "nombreJuego": "Silent Hill 3",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 69.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 85,
+    "duracion": "6.21 Hours"
+  },
+  "metroid-prime": {
+    "nombreJuego": "Metroid Prime",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": "$39.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 94,
+    "duracion": "13.77 Hours"
+  },
+  "metal-gear-solid": {
+    "nombreJuego": "Metal Gear Solid",
+    "precios": {
+      "steam": {
+        "precio": "$69.99"
+      },
+      "playstation": {
+        "precio": 69.99
+      },
+      "nintendo": {
+        "precio": "$19.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 85,
+    "duracion": "11.26 Hours"
+  },
+  "metroid-dread": {
+    "nombreJuego": "Metroid Dread",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": "$59.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 88,
+    "duracion": null
+  },
+  "metal-gear-solid-2": {
+    "nombreJuego": "Metal Gear Solid 2",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": "$19.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 96,
+    "duracion": null
+  },
+  "kirby-and-the-forgotten-land": {
+    "nombreJuego": "Kirby and the Forgotten Land",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 4.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 83,
+    "duracion": null
+  },
+  "metal-gear-solid-3": {
+    "nombreJuego": "Metal Gear Solid 3",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": "$19.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 94,
+    "duracion": null
+  },
+  "metal-gear-solid-4": {
+    "nombreJuego": "Metal Gear Solid 4",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 0.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 94,
+    "duracion": null
+  },
+  "death-stranding": {
+    "nombreJuego": "Death Stranding",
+    "precios": {
+      "steam": {
+        "precio": "$39.99"
+      },
+      "playstation": {
+        "precio": 49.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 89,
+    "duracion": null
+  },
+  "stray": {
+    "nombreJuego": "Stray",
+    "precios": {
+      "steam": {
+        "precio": "$29.99"
+      },
+      "playstation": {
+        "precio": 29.99
+      },
+      "nintendo": {
+        "precio": "$27.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 83,
+    "duracion": null
+  },
+  "control": {
+    "nombreJuego": "Control",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 39.99
+      },
+      "nintendo": {
+        "precio": "$39.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 85,
+    "duracion": null
+  },
+  "alan-wake": {
+    "nombreJuego": "Alan Wake",
+    "precios": {
+      "steam": {
+        "precio": "$14.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": "$29.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 85,
+    "duracion": null
+  },
+  "alan-wake-ii": {
+    "nombreJuego": "Alan Wake II",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 85,
+    "duracion": null
+  },
+  "the-last-of-us": {
+    "nombreJuego": "The Last of Us",
+    "precios": {
+      "steam": {
+        "precio": "$49.99"
+      },
+      "playstation": {
+        "precio": 9.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 90,
+    "duracion": null
+  },
+  "the-last-of-us-part-ii": {
+    "nombreJuego": "The Last of Us Part II",
+    "precios": {
+      "steam": {
+        "precio": "$49.99"
+      },
+      "playstation": {
+        "precio": 39.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 90,
+    "duracion": null
+  },
+  "uncharted-4": {
+    "nombreJuego": "Uncharted 4",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 93,
+    "duracion": "15.1 Hours"
+  },
+  "uncharted-the-lost-legacy": {
+    "nombreJuego": "Uncharted: The Lost Legacy",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 84,
+    "duracion": "7.1 Hours"
+  },
+  "mass-effect": {
+    "nombreJuego": "Mass Effect",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 96,
+    "duracion": "16.98 Hours"
+  },
+  "mass-effect-2": {
+    "nombreJuego": "Mass Effect 2",
+    "precios": {
+      "steam": {
+        "precio": "$29.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 96,
+    "duracion": "24.65 Hours"
+  },
+  "mass-effect-3": {
+    "nombreJuego": "Mass Effect 3",
+    "precios": {
+      "steam": {
+        "precio": "$29.99"
+      },
+      "playstation": {
+        "precio": 29.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 93,
+    "duracion": "24.52 Hours"
+  },
+  "dragon-age-origins": {
+    "nombreJuego": "Dragon Age: Origins",
+    "precios": {
+      "steam": {
+        "precio": "$29.99"
+      },
+      "playstation": {
+        "precio": 39.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 86,
+    "duracion": "40.34 Hours"
+  },
+  "dragon-age-ii": {
+    "nombreJuego": "Dragon Age II",
+    "precios": {
+      "steam": {
+        "precio": "$29.99"
+      },
+      "playstation": {
+        "precio": 14.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 79,
+    "duracion": "26.7 Hours"
+  },
+  "divinity-original-sin": {
+    "nombreJuego": "Divinity: Original Sin",
+    "precios": {
+      "steam": {
+        "precio": "$44.99"
+      },
+      "playstation": {
+        "precio": 39.99
+      },
+      "nintendo": {
+        "precio": "$49.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 93,
+    "duracion": "66.29 Hours"
+  },
+  "divinity-original-sin-ii": {
+    "nombreJuego": "Divinity: Original Sin II",
+    "precios": {
+      "steam": {
+        "precio": "$44.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 93,
+    "duracion": "59.4 Hours"
+  },
+  "the-elder-scrolls-iv-oblivion": {
+    "nombreJuego": "The Elder Scrolls IV: Oblivion",
+    "precios": {
+      "steam": {
+        "precio": "$49.99"
+      },
+      "playstation": {
+        "precio": 49.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 80,
+    "duracion": "27.62 Hours"
+  },
+  "pokémon-scarlet": {
+    "nombreJuego": "Pokémon Scarlet",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": null,
+    "duracion": "32.16 Hours"
+  },
+  "pokémon-violet": {
+    "nombreJuego": "Pokémon Violet",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 9.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 70,
+    "duracion": "32.16 Hours"
+  },
+  "pokémon-sword": {
+    "nombreJuego": "Pokémon Sword",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 4.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 88,
+    "duracion": "25.59 Hours"
+  },
+  "pokémon-shield": {
+    "nombreJuego": "Pokémon Shield",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 17.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 89,
+    "duracion": "25.59 Hours"
+  },
+  "super-mario-galaxy": {
+    "nombreJuego": "Super Mario Galaxy",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 2.99
+      },
+      "nintendo": {
+        "precio": "$69.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 87,
+    "duracion": "13.76 Hours"
+  },
+  "super-mario-galaxy-2": {
+    "nombreJuego": "Super Mario Galaxy 2",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 2.99
+      },
+      "nintendo": {
+        "precio": "$69.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 87,
+    "duracion": "13.17 Hours"
+  },
+  "super-mario-sunshine": {
+    "nombreJuego": "Super Mario Sunshine",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 6.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 92,
+    "duracion": "14.97 Hours"
+  },
+  "super-mario-64": {
+    "nombreJuego": "Super Mario 64",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 4.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 85,
+    "duracion": "11.85 Hours"
+  },
+  "tetris": {
+    "nombreJuego": "Tetris",
+    "precios": {
+      "steam": {
+        "precio": "$39.99"
+      },
+      "playstation": {
+        "precio": 20.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 85,
+    "duracion": "3.21 Hours"
+  },
+  "pac-man": {
+    "nombreJuego": "Pac-Man",
+    "precios": {
+      "steam": {
+        "precio": "$4.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": "$19.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 74,
+    "duracion": "0.79 Hours"
+  },
+  "street-fighter-v": {
+    "nombreJuego": "Street Fighter V",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 87,
+    "duracion": "3.32 Hours"
+  },
+  "street-fighter-6": {
+    "nombreJuego": "Street Fighter 6",
+    "precios": {
+      "steam": {
+        "precio": "$39.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 86,
+    "duracion": "17.47 Hours"
+  },
+  "tekken-7": {
+    "nombreJuego": "Tekken 7",
+    "precios": {
+      "steam": {
+        "precio": "$39.99"
+      },
+      "playstation": {
+        "precio": 49.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 82,
+    "duracion": "3.59 Hours"
+  },
+  "tekken-8": {
+    "nombreJuego": "Tekken 8",
+    "precios": {
+      "steam": {
+        "precio": "$59.99"
+      },
+      "playstation": {
+        "precio": 59.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 90,
+    "duracion": "4.16 Hours"
+  },
+  "mortal-kombat-x": {
+    "nombreJuego": "Mortal Kombat X",
+    "precios": {
+      "steam": {
+        "precio": "$19.99"
+      },
+      "playstation": {
+        "precio": 19.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 85,
+    "duracion": "5.68 Hours"
+  },
+  "mortal-kombat-11": {
+    "nombreJuego": "Mortal Kombat 11",
+    "precios": {
+      "steam": {
+        "precio": "$49.99"
+      },
+      "playstation": {
+        "precio": 49.99
+      },
+      "nintendo": {
+        "precio": "$49.99",
+        "en_oferta": false
+      }
+    },
+    "metacritic": 88,
+    "duracion": "6.3 Hours"
+  },
+  "zenless-zone-zero": {
+    "nombreJuego": "Zenless Zone Zero",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 9.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 77,
+    "duracion": "46.04 Hours"
+  },
+  "honkai-star-rail": {
+    "nombreJuego": "Honkai: Star Rail",
+    "precios": {
+      "steam": {
+        "precio": null
+      },
+      "playstation": {
+        "precio": 49.99
+      },
+      "nintendo": {
+        "precio": null,
+        "en_oferta": false
+      }
+    },
+    "metacritic": 80,
+    "duracion": "25.6 Hours"
+  }
+}
