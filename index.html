@@ -348,7 +348,7 @@
 
         async function loadGames() {
             try {
-                const response = await fetch('resultados_juegos.json');
+                const response = await fetch('https://raw.githubusercontent.com/DilanAndrey/ProyectoMulticore/refs/heads/gh-pages/resultados_juegos.json');
                 gamesData = await response.json();
                 displayGames();
                 updateStats();
