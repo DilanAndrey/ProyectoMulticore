@@ -10,7 +10,7 @@
 ## ejemplo del funcionamiento de la barra de busqueda
 ![screenshot de ejemplo de un juego buscado en la barra de busqueda](https://github.com/DilanAndrey/ProyectoMulticore/blob/main/Imagenes/Screenshot%202025-11-19%20183930.png) 
 ## Link de la pagina
-[CLick aqui para acceder a nuestra pagina](https://dilanandrey.github.io/ProyectoMulticore/)
+[Click aqui para acceder a nuestra pagina](https://dilanandrey.github.io/ProyectoMulticore/)
 # acerca del proyecto
 el proyecto consiste de un programa desarrollado en python, que le hace web scrapping a distintas paginas para obtener datos de 208 juegos que obtiene de un archivo de texto llamado "lista de juegos.txt", para con esos datos generar una pagina web que sirve como resumen de los precios, calificacion y duracion de cada juego en dicho archivo de texto.
 El webdriver utilizado fue selenium, aunque la mayor parte del webscrapping se logra por medio de APIs.
