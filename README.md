@@ -16,4 +16,4 @@ el proyecto consiste de un programa desarrollado en python, que le hace web scra
 ## paginas a las que hace scrapping
 - [steam](https://store.steampowered.com/)
 - [playstation store](https://store.playstation.com/en-us/)
-- [nintendo](https://searching.nintendo-europe.com/)
+- [nintendo](https://searching.nintendo-america.com/)
