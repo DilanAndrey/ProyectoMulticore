@@ -12,7 +12,7 @@
 ## Link de la pagina
 [Click aqui para acceder a nuestra pagina](https://dilanandrey.github.io/ProyectoMulticore/)
 # acerca del proyecto
-el proyecto consiste de un programa desarrollado en python, que le hace web scrapping a distintas paginas para obtener datos de 208 juegos que obtiene de un archivo de texto llamado "lista de juegos.txt", para con esos datos generar una pagina web que sirve como resumen de los precios, calificacion y duracion de cada juego en dicho archivo de texto.
+el proyecto consiste en un programa desarrollado en python, que le hace web scrapping a distintas paginas para obtener datos de 208 juegos que obtiene de un archivo de texto llamado "lista de juegos.txt", para con esos datos generar una pagina web que sirve como resumen de los precios, calificacion y duracion de cada juego en dicho archivo de texto.
 El webdriver utilizado fue selenium, aunque la mayor parte del webscrapping se logra por medio de APIs.
 El codigo funciona con multiprocesamiento, pues dos procesos recorren cada mitad del archivo de forma simultanea, y cada uno llama a 3 funciones diferentes que funcionan en paralelo (los scrappers de Steam, Playstation y Nintendo), y 2 que funcionan de manera secuencial (los scrappers de HowLongToBeat y Metacritic, que se encargan de obtener los datos del juego dado para las diferentes paginas que se listan a continuacion.
 ## paginas a las que hace scrapping
